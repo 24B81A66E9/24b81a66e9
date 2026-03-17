@@ -1,0 +1,10 @@
+What is Git?
+Git is a popular version control system.
+It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+Git is an open-source, local version control system (VCS), while GitHub is a web-based platform that
+hosts Git repositories online and provides collaboration tools. You can use Git without GitHub, but you
+cannot use GitHub without using Git
+It is used for:
+ Tracking code changes
+ Tracking who made changes
+ Coding collaboration
